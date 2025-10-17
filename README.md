@@ -10,6 +10,10 @@ A lightweight, fully-customizable speedometer / gauge widget for Flutter with se
 - Customizable start/sweep angles (e.g., 240° automotive layout)
 - Center value + optional units
 
+## Demo
+
+![Demo](https://raw.githubusercontent.com/abqamar/flutter_speedometer_gauge/refs/heads/main/sample_video/speedometer.gif)
+
 ## Install
 
 ```yaml
