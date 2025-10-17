@@ -1,0 +1,30 @@
+name: flutter_speedometer_gauge
+description: >
+  Lightweight, fully-customizable speedometer / gauge widget for Flutter with segments,
+  animated needle, ticks, and labels. Easy to drop into dashboards and automotive-style UIs.
+version: 0.1.0
+homepage: https://github.com/abqamar/flutter_speedometer_gauge
+repository: https://github.com/abqamar/flutter_speedometer_gauge
+issue_tracker: https://github.com/abqamar/flutter_speedometer_gauge/issues
+topics:
+  - gauge
+  - chart
+  - dashboard
+  - speedometer
+  - visualization
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.7.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
